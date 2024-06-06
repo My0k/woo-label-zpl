@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WooCommerce Zebra Labels
- * Plugin URI:  http://example.com
+ * Plugin URI:  http://tupac.com
  * Description: Automatically generates Zebra labels for each WooCommerce order.
  * Version:     1.0
- * Author:      Tu Nombre
- * Author URI:  http://example.com
+ * Author:      Little John
+ * Author URI:  http://galvanized.com
  */
 
 if (!defined('ABSPATH')) {
